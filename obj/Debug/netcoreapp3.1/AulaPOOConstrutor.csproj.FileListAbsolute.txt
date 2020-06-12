@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\bin\Debug\netcoreapp3.1\AulaPOOConstrutor.exe
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\bin\Debug\netcoreapp3.1\AulaPOOConstrutor.deps.json
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\bin\Debug\netcoreapp3.1\AulaPOOConstrutor.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\bin\Debug\netcoreapp3.1\AulaPOOConstrutor.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\bin\Debug\netcoreapp3.1\AulaPOOConstrutor.dll
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\bin\Debug\netcoreapp3.1\AulaPOOConstrutor.pdb
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\obj\Debug\netcoreapp3.1\AulaPOOConstrutor.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\obj\Debug\netcoreapp3.1\AulaPOOConstrutor.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\obj\Debug\netcoreapp3.1\AulaPOOConstrutor.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\obj\Debug\netcoreapp3.1\AulaPOOConstrutor.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\obj\Debug\netcoreapp3.1\AulaPOOConstrutor.dll
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\obj\Debug\netcoreapp3.1\AulaPOOConstrutor.pdb
+D:\Thiago\Projetos\C#\AulaPOOConstrutor\obj\Debug\netcoreapp3.1\AulaPOOConstrutor.genruntimeconfig.cache
